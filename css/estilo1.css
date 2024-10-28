@@ -1,0 +1,118 @@
+*{
+	padding: 0%;
+	margin: 0%;
+}
+body{
+	background-color:#f9f9f9;
+	font-family:calibri;
+	font-size:110%;
+	color:#0000000;
+}
+.menu1 ul{
+	background-color:#151f66;
+	width:100%;
+	padding:5px;
+	text-align:left;
+	font-family:calibri;
+	font-size:24px;
+	color: #f9f9f9;
+}
+.menu1 li{
+	position:top;
+	display:inline;
+	color:#f9f9f9;
+	font-family:CALIBRI;
+	margin-right:5%;
+	margin-left:1%;
+		
+}
+.menu1 li:hover{
+	background-color:#2d488c;
+	border-right:solid );
+	cursor:pointer;
+}
+.menu1 img{
+	position:center;
+	width:3%;
+	margin-left:1%;
+}
+
+.encabezado{
+	background-image: url("../imagenes/SeguridadInformatica.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color:#1a2683;
+	padding:2%;
+	width:absolute;
+	text-align:center;
+	font-family:calibri;
+	font-size:90px;
+	color:#f9f9f9;
+}
+
+
+
+.inicio
+{
+	display:flex;
+}
+.in-flex {
+flex: 1;
+padding: 0px;
+min-width: 300px;
+
+}
+
+.in-flex: first-child {
+flex: 2;
+padding: 0px;
+background-color:#f9f9f9;
+margin: 0px;
+margin-bottom: Opx;
+}	
+
+.in-flex div {
+padding:25px;
+background-color: #d2dfff;
+margin:20px;
+color:#000000;
+}
+
+aside{
+	padding:25px;
+	color:black;
+}
+footer{
+	background-color:#151f66;
+	color:#f9f9f9;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
