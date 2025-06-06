@@ -29,7 +29,34 @@
 			</h1>
 			<br><section class="inicio"></section>
 			<article>
-	
+				
+	<div class="cajaFormulario">
+        <h1 class="titulo">Registro de usuario</h1>
+        <form action="datos.php" method="POST">
+            <label for="nombre">Nombre</label>
+            <br>
+            <input type="text" name="nombre" value="" required placeholder="Indique su nombre">
+            <br>
+            <label for="apellido">apellido</label>
+            <br>
+            <input type="text" name="apellido" value="" required placeholder="Indique su apellido">
+            <br>
+            <label for="email">Email</label>
+            <br>
+            <input type="email" name="email" value="">
+            <br>
+            <label for="password">Password</label>
+            <br>
+            <input type="password" name="password" value="">
+            <br>
+            <label for="observaciones">Observaciones</label>
+            <br>
+            <textarea name="observaciones" id="observaciones" cols="30" rows="10"></textarea>
+            <br>
+            <button type="submit" >Registrarme</button>
+        <!-- <input type="submit" value="Registrarme"> -->
+        </form>
+    </div>
 		
 		</article>
 	</section>
